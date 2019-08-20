@@ -1,4 +1,13 @@
 {
+  "name": "coolnodeapp",
+  "version": "1.0.0",
+  "description": "voiture app",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server.js"
+  }, "engines": {
+    "node": "10.15.0"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "express-fileupload": "^1.1.5",
